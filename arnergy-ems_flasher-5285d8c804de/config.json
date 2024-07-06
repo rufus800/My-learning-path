@@ -1,0 +1,16 @@
+{
+    "NETWORKS": {
+        "MTN_GENERIC": "1web.gprs.mtnnigeria.net",
+        "MTN_ARNERGY": "1arnergy.net",
+        "Airtel": "1internet.ng.airtel.com",
+        "GLO": "1gloflat",
+        "9Mobile": "19mobile",
+        "None": "None"
+    },
+    "SYSTEM_TYPES": [
+        "5.4kWh System",
+        "5.4kWh System with TOPBMU",
+        "HV_SINGLE",
+        "HV_MULTIPLE"
+    ]
+}
